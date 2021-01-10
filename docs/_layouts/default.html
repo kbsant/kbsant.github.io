@@ -23,7 +23,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
 <p>Posts</p>
-  {% for post in site.posts limit: 5 %}
+  {% for post in site.posts limit: 15 %}
     <p><small>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </small></p>
