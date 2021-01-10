@@ -2,9 +2,8 @@
 layout: post
 title: "Trying out Clojure"
 date: 2015-10-30
+author: Kean Santos
 ---
-
-# Trying out Clojure
 
 I'm reviewing some basic software algorithms, and writing them out with both Scala and Clojure.
 
