@@ -1,6 +1,3 @@
-# Profile of Kean Santos
-
-Profile of Kean Santos
 I'm a software developer at a Japanese financial firm.
 
 My current interests are:
@@ -10,7 +7,7 @@ My current interests are:
 
 Some personal personal projects:
 
-* https://github.com/kbsant
-* https://www.ersbane.com
-* https://www.ashikasoft.com
+* <https://github.com/kbsant>
+* <https://www.ersbane.com>
+* <https://www.ashikasoft.com>
 
