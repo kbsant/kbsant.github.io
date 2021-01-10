@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Trying out Clojure"
 date: 2015-10-30
 ---

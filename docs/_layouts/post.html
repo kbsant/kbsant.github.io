@@ -23,22 +23,9 @@
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
-<div class="row">
-<div class="eight columns">
       <section id="main_content" class="inner">
         {{ content }}
       </section>
-</div>
-<div class="four columns">
-<ul>
-  {% for post in site.posts limit: 5 %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-</div>
-</div>
     </div>
 
     <!-- FOOTER  -->
