@@ -10,9 +10,7 @@ My current interests are:
 
 Some personal personal projects:
 
-* <github.com/kbsant>
-* <www.ersbane.com>
-* <www.ashikasoft.com>
-
-
+* https://github.com/kbsant
+* https://www.ersbane.com
+* https://www.ashikasoft.com
 
