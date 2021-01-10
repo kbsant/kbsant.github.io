@@ -28,6 +28,16 @@
       </section>
     </div>
 
+<div>
+<ul>
+  {% for post in site.posts limit: 5 %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+</div>
+
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
