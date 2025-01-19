@@ -9,5 +9,5 @@ Some personal personal projects:
 
 * <https://github.com/kbsant>
 * <https://www.ersbane.com>
-* <rpcalc.html>
+* [RPN calculator](./rpcalc.html)
 
