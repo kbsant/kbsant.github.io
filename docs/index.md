@@ -9,5 +9,4 @@ Some personal personal projects:
 
 * <https://github.com/kbsant>
 * <https://www.ersbane.com>
-* <https://www.ashikasoft.com>
 
