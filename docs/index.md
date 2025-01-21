@@ -1,4 +1,4 @@
-I'm a software developer at a Japanese financial firm.
+I'm a software developer in Japan.
 
 My current interests are:
 
