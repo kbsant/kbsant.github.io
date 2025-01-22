@@ -3,7 +3,8 @@ I'm a software developer in Japan.
 My current interests are:
 
 * Learning to program in [Clojure](https://www.clojure.org)
-* Vlogging tools and platforms
+* text adventure simulation games
+* calculators
 
 Some personal personal projects:
 
