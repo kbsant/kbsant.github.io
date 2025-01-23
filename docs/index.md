@@ -10,5 +10,5 @@ Some personal personal projects:
 
 * <https://github.com/kbsant>
 * <https://www.ersbane.com>
-* [RPN calculator](./rpcalc.html)
+* [RPN calculator]<https://www.keansantos.com/rpcalc/rpcalc.html>
 
